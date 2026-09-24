@@ -15,8 +15,7 @@ Remove Columns with missing values
 ### Database Overlay Overview (Table_Name: Column_Names):
 
 ### international_top_1000_gross_movies
-international_rank int PK - title varchar(100)  - worldwide_lifetime_gross bigint - domestic_lifetime_gross bigint - domestic_percentage float -foreign_lifetime_gross bigint 
-- foreign_percentage float - year int
+international_rank int PK - title varchar(100)  - worldwide_lifetime_gross bigint - domestic_lifetime_gross bigint - domestic_percentage float - foreign_lifetime_gross bigint - foreign_percentage float - year int
 
 
 ### top_franchises
