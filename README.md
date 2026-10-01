@@ -30,7 +30,7 @@ genre varchar(100) - total bigint - titles int - num_one_title varchar(100) - li
 ### top_us_1000_movies
 ranks int PK - movie varchar(100) - releases bigint - year int - lifetime_gross bigint
 
-Sample Preview
+###Sample Preview
 |Brand|	Total_Releases|	Num_1_Release|	Lifetime_Gross|
 |-----|---------------|---------------|----------------|
 |Marvel Comics|	15806336901	|69	|Avengers: Endgame	|858373000|
