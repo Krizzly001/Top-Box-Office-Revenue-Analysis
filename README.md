@@ -34,5 +34,5 @@ Sample Preview
 |Brand|	Total_Releases|	Num_1_Release|	Lifetime_Gross|
 |-----|---------------|---------------|----------------|
 |Marvel Comics|	15806336901	|69	|Avengers: Endgame	|858373000|
-|Legendary Pictures|	7018798067|	56|	Jurassic World|	652270625|
-|Lucasfilm	6325022918|	39|	Star Wars: Episode VII - The Force Awakens|	936662225|
+|Legendary Pictures|7018798067|	56|	Jurassic World|	652270625|
+|Lucasfilm	|6325022918|39|	Star Wars: Episode VII - The Force Awakens|	936662225|
